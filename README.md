@@ -10,8 +10,8 @@ Rounded glass theme with a lot of customization.
 Venti and I made this theme based on my first theme because we wanted something more complete and customizable.
 
 To download use the theme, you can either:
-- download the [local file](https://github.com/Kayno0o/rounded-glass-theme/blob/main/local_rounded.theme.css) which will work with the [remote file](https://github.com/Kayno0o/rounded-glass-theme/blob/main/remote_rounded.theme.css) from the github, so your theme will get updated when we update it.
-- download the [full source](https://github.com/Kayno0o/rounded-glass-theme/blob/main/source_rounded.theme.css) file
+- download the [local file](https://github.com/Ventispurr/rounded-glass-theme/blob/main/local_rounded.theme.css) which will work with the [remote file](https://github.com/Ventispurr/rounded-glass-theme/blob/main/remote_rounded.theme.css) from the github, so your theme will get updated when we update it.
+- download the [full source](https://github.com/Ventispurr/rounded-glass-theme/blob/main/source_rounded.theme.css) file
 
 
 ------------------------
