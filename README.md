@@ -13,7 +13,7 @@ To download use the theme, you can either:
 - download the [local file](https://github.com/Ventispurr/rounded-glass-theme/blob/main/local_rounded.theme.css) which will work with the [remote file](https://github.com/Ventispurr/rounded-glass-theme/blob/main/remote_rounded.theme.css) from the github, so your theme will get updated when we update it.
 - download the [full source](https://github.com/Ventispurr/rounded-glass-theme/blob/main/source_rounded.theme.css) file
 
-
+- If you find any issues, please join the [Discord](https://discord.gg/tzf9T3PBYe)
 ------------------------
 
 
