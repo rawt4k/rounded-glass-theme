@@ -1418,25 +1418,3 @@ pre .hljs, .container-1D34oG {
     overflow: hidden;
     position: relative;
 }
-/* Spotify */
-.connectedAccountIcon-3_EQqg[src="/assets/7906941c1205ba04b6921f2af4c6a170.png"] ~ div::before {--border-color: #1ED760;}
-/* Github */
-.connectedAccountIcon-3_EQqg[src="/assets/afb09840b496f2c49032075a33da7fab.png"] ~ div::before {--border-color: #fff;}
-/* Twitch */
-.connectedAccountIcon-3_EQqg[src="/assets/007e5cb8871cf0987283c6307ce7fed0.png"] ~ div::before {--border-color: #563194;}
-/* Twitter */
-.connectedAccountIcon-3_EQqg[src="/assets/6919f2a578d91a5d033b639f0fb52b3d.png"] ~ div::before {--border-color: #0099E4;}
-/* xbox */
-.connectedAccountIcon-3_EQqg[src="/assets/746aba83c88f087e3eef23a47dd57923.png"] ~ div::before {--border-color: #5EC220;}
-/* Reddit */
-.connectedAccountIcon-3_EQqg[src="/assets/b46c06eb71dc56a41432512168e6759a.png"] ~ div::before {--border-color: #FF4500;}
-/* Battle.net */
-.connectedAccountIcon-3_EQqg[src="/assets/7b964801001dd47cc05a91d6dacf6075.png"] ~ div::before {--border-color: #0099E4;}
-/* Steam */
-.connectedAccountIcon-3_EQqg[src="/assets/a9c26c8bebe406ca1adc1967bc532224.png"] ~ div::before {--border-color: #000000;}
-/* YouTube */
-.connectedAccountIcon-3_EQqg[src="/assets/25ec573cf82ee36d12296628f6bec11b.png"] ~ div::before {--border-color: #D9252A;}
-/* Facebook */
-.connectedAccountIcon-3_EQqg[src="/assets/3d189c41ce8155dfebf86ba2d1acfbbc.png"] ~ div::before {--border-color: #2D3283;}
-/* LOL */
-.connectedAccountIcon-3_EQqg[src="/assets/a0e2182e843745c73f7f3c8325a05ea9.png"] ~ div::before {--border-color: #CEA146;}
